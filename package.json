@@ -1,0 +1,22 @@
+{
+  "name": "@clay71/form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abir-hosen-ashik/clay71-form.git"
+  },
+  "keywords": [
+    "clay71-form"
+  ],
+  "author": "abir hosen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abir-hosen-ashik/clay71-form/issues"
+  },
+  "homepage": "https://github.com/abir-hosen-ashik/clay71-form#readme"
+}
